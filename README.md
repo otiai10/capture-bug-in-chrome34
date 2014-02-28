@@ -12,7 +12,8 @@ This extension is to check the above problem.
 
 # Results
 
-| Version of Chrome | Got Image URI | Download URL |
-|:-----------------:|:-------------:|:------------:|
-| 33.0.1750.117 (Official Build 252094)     | `data:image/jpeg;base64,/9j/4AAQS...` | https://www.google.com/intl/en/chrome/browser/beta.html |
-| 34.0.1847.11 (Official Build 253056) beta | `undefined` | https://www.google.com/intl/en/chrome/browser/ |
+| Version of Chrome \ OS | MacOSX 10.9.1 | Windows 7 |
+|:----------------------:|:-------------:|:---------:|
+| [33.0.1750.117 (Official Build 252094)](https://www.google.com/intl/en/chrome/browser/) | `data:image/jpeg;base64,/9j/4AAQS...` | |
+| [34.0.1847.11 (Official Build 253056)](https://www.google.com/intl/en/chrome/browser/beta.html) | `undefined` | |
+| 34.0.1847.11 beta-m | - | `undefined` ( reported by users of my extension ) |
