@@ -9,3 +9,10 @@ This extension is to check the above problem.
 1. clone this repo
 2. enable developer mode in `chrome://extension`
 3. import this repo as a (unpackaged) chrome extension
+
+# Results
+
+| Version of Chrome | Got Image URI |
+|:-----------------:|:-------------:|
+| 33.0.1750.117 (Official Build 252094)     | `data:image/jpeg;base64,/9j/4AAQS...` |
+| 34.0.1847.11 (Official Build 253056) beta | `undefined` |
