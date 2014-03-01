@@ -10,6 +10,8 @@ Solved by: https://github.com/otiai10/capture-bug-in-chrome34/commit/8fd72037b95
 
 Related to: [Issue 140433003: tab capture: Change the permissions for tabs.captureVisibleTab(). - Code Review](https://codereview.chromium.org/140433003)
 
+Forum topic: https://productforums.google.com/forum/#!mydiscussions/chrome/TI87ktlPxEg
+
 # Set up this extension
 
 1. clone this repo
