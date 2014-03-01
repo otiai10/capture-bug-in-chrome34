@@ -6,7 +6,7 @@ This extension is to check the above problem.
 
 # THIS PROBLEM IS SOLVED
 
-Solved by: 8fd72037b95230c121f4ce91a4ab012562795254
+Solved by: https://github.com/otiai10/capture-bug-in-chrome34/commit/8fd72037b95230c121f4ce91a4ab012562795254
 
 Related to: [Issue 140433003: tab capture: Change the permissions for tabs.captureVisibleTab(). - Code Review](https://codereview.chromium.org/140433003)
 
