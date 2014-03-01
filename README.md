@@ -4,13 +4,19 @@ Using Google Chrome `34.0.1847.11 (Official Build 253056) beta`,
 
 This extension is to check the above problem.
 
+# THIS PROBLEM IS SOLVED
+
+Solved by: 8fd72037b95230c121f4ce91a4ab012562795254
+
+Related to: [Issue 140433003: tab capture: Change the permissions for tabs.captureVisibleTab(). - Code Review](https://codereview.chromium.org/140433003)
+
 # Set up this extension
 
 1. clone this repo
 2. enable developer mode in `chrome://extension`
 3. import this repo as a (unpackaged) chrome extension
 
-# Results
+# Results (Obsolete)
 
 | Version of Chrome \ OS | MacOSX 10.9.1 | Windows 7 |
 |:----------------------:|:-------------:|:---------:|
